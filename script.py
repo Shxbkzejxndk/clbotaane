@@ -18,7 +18,8 @@ class Script(object):
 
 ➥ 🌀Creator🌀 : @Shamilmalik_10
 
-➥ 🎯MY OWNER YOUTUBE CHANNEL🎯: https://youtube.com/channel/UCMNEfWvTQXn4BEgNwBxtctA
+➥ 🎯MY OWNER YOUTUBE CHANNEL🎯: [GAMINGwithSHAMIL](https://youtube.com/channel/UCMNEfWvTQXn4BEgNwBxtctA)
+"""
 
 <b>© @CLMRG</b>
 """
@@ -31,7 +32,5 @@ class Script(object):
 
 ➥ 🌀Creator🌀 : @Shamilmalik_10
 
-➥ 🎯MY OWNER YOUTUBE CHANNEL🎯: https://youtube.com/channel/UCMNEfWvTQXn4BEgNwBxtctA
-
-<b>© @CLMRG</b>
+➥ 🎯MY OWNER YOUTUBE CHANNEL🎯: [GAMINGwithSHAMIL](https://youtube.com/channel/UCMNEfWvTQXn4BEgNwBxtctA)
 """
