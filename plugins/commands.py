@@ -217,7 +217,7 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("Command Help", callback_data="help_data")
+                    InlineKeyboardButton("🔸𝗝𝗢𝗜𝗡 𝗚𝗥𝗢𝗨𝗣🔸", url="https://t.me/joinchat/X9hGQQb8zdAzN2U1")
                 ]
             ]
         ),
@@ -243,12 +243,12 @@ async def help(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("How to Deploy?", url="https://youtu.be/hkmc3e7U7R4"),
-                    InlineKeyboardButton("About Me", callback_data="about_data")
+                    InlineKeyboardButton("⭕️CHANNEL⭕️", url="https://t.me/joinchat/0B7v3NByJNQ5MGVl"),
+                    InlineKeyboardButton("🏅GROUP🏅", url="https://t.me/joinchat/X9hGQQb8zdAzN2U1")
                 ],
                 [
-                    InlineKeyboardButton("BOT Channel", url="https://t.me/TroJanzHEX"),
-                    InlineKeyboardButton("Support Group", url="https://t.me/TroJanzSupport")
+                    InlineKeyboardButton("My Developer👨‍🔬", url="https://t.me/Shamilmalik_10"),
+                    InlineKeyboardButton("🔗 Cʜᴀɴɴᴇʟ Lɪɴᴋs 🔗", url="https://t.me/CLMRG")
                 ]
             ]
         ),
@@ -265,11 +265,11 @@ async def about(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        "SOURCE CODE", url="https://github.com/TroJanzHEX/Unlimited-Filter-Bot")
+                        "🎞️New Release🎞️", url="https://t.me/joinchat/44Iqj31OdOExNGNl")
                 ],
                 [
                     InlineKeyboardButton("BACK", callback_data="help_data"),
-                    InlineKeyboardButton("CLOSE", callback_data="close_data"),
+                    InlineKeyboardButton("❌CLOSE❌", callback_data="close_data"),
                 ]                
             ]
         ),
