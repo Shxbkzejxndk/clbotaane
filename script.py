@@ -1,63 +1,37 @@
 class Script(object):
 
-    START_MSG = """<b>Hy {},
+    START_MSG = """<b>Hey {},
 
-I'm an advanced filter bot with many capabilities!
-There is no practical limits for my filtering capacity :)
+എന്നെ CINEMA LOKAM ഗ്രൂപ്പിലേക്ക് മാത്രമേ ഉപയോഗിക്കാൻ പറ്റൂ...
 
-See <i>/help</i> for commands and more details.</b>
+
+വെറുതെ സമയം കളയാൻ നിൽക്കണ്ട...വേഗം ഗ്രൂപ്പിലേക്ക് വിട്ടോ സിനിമ അവിടെ കിട്ടും...🤭.
+
+@CLMRG</b>
 """
 
 
     HELP_MSG = """
-<i>Add me as admin in your group and start filtering :)</i>
+➥⭕️ CHANNELS ⭕️: @CLMRG
+    
+➥ 🏅 GROUP 🏅: @CINEMA_LOKAM_MOVIE_REQUEST_GROUP
 
+➥ 🌀Creator🌀 : @Shamilmalik_10
 
-<b>Basic Commands;</b>
+➥ 🎯MY OWNER YOUTUBE CHANNEL🎯: https://youtube.com/channel/UCMNEfWvTQXn4BEgNwBxtctA
 
-/start - Check if I'm alive!
-/help - Command help
-/about - Something about me!
-
-
-<b>Filter Commands;</b>
-
-<code>/add name reply</code>  -  Add filter for name
-
-<code>/del name</code>  -  Delete filter
-
-<code>/delall</code>  -  Delete entire filters (Group Owner Only!)
-
-<code>/viewfilters</code>  -  List all filters in chat
-
-
-<b>Connection Commands;</b>
-
-<code>/connect groupid</code>  -  Connect your group to my PM. You can also simply use,
-<code>/connect</code> in groups.
-
-<code>/connections</code>  -  Manage your connections.
-
-
-<b>Extras;</b>
-
-/status  -  Shows current status of your bot (Auth User Only)
-
-/id  -  Shows ID information
-
-<code>/info userid</code>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
-
-
-<b>© @TroJanzHEX</b>
+<b>© @CLMRG</b>
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name : TroJanz Filter Bot</b>
+    ABOUT_MSG = """
+➥⭕️ CHANNELS ⭕️: @CLMRG
+    
+➥ 🏅 GROUP 🏅: @CINEMA_LOKAM_MOVIE_REQUEST_GROUP
 
-⭕️<b>Creater :</b> @TroJanzHEX    
+➥ 🌀Creator🌀 : @Shamilmalik_10
 
-⭕️<b>Language :</b> <code>Python3</code>
+➥ 🎯MY OWNER YOUTUBE CHANNEL🎯: https://youtube.com/channel/UCMNEfWvTQXn4BEgNwBxtctA
 
-⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
-
+<b>© @CLMRG</b>
 """
