@@ -70,11 +70,11 @@ async def cb_handler(client, query):
             [
                 [
                     InlineKeyboardButton(
-                        "SOURCE CODE", url="https://github.com/TroJanzHEX/Unlimited-Filter-Bot")
+                        "🎞️New Release🎞️", url="https://t.me/joinchat/44Iqj31OdOExNGNl")
                 ],
                 [
-                    InlineKeyboardButton("BACK", callback_data="help_data"),
-                    InlineKeyboardButton("CLOSE", callback_data="close_data"),
+                    InlineKeyboardButton("⚡️GROUP⚡️", url="https://t.me/joinchat/X9hGQQb8zdAzN2U1"),
+                    InlineKeyboardButton("❌CLOSE❌", callback_data="close_data"),
                 ]                
             ]
         )
