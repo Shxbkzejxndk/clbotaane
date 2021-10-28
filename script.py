@@ -26,11 +26,11 @@ class Script(object):
 
 
     ABOUT_MSG = """
-➥⭕️ CHANNELS ⭕️: @CLMRG
+➥⭕️ CHANNELS ⭕️: [ᴄɪɴᴇᴍᴀ ʟoKᴀᴍ🌐](https://t.me/CLMRG)
     
-➥ 🏅 GROUP 🏅: @CINEMA_LOKAM_MOVIE_REQUEST_GROUP
+➥ 🏅 GROUP 🏅: [CINEMA LOKAM GROUP](https://t.me/joinchat/X9hGQQb8zdAzN2U1)
 
-➥ 🌀Creator🌀 : @Shamilmalik_10
+➥ 🌀Creator🌀 : [Shamilmalik](https://t.me/Shamilmalik_10)
 
 ➥ 🎯MY OWNER YOUTUBE CHANNEL🎯: [GAMINGwithSHAMIL](https://youtube.com/channel/UCMNEfWvTQXn4BEgNwBxtctA)
 """
