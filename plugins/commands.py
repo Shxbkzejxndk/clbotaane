@@ -244,10 +244,10 @@ async def help(client, message):
             [
                 [
                     InlineKeyboardButton("⭕️CHANNEL⭕️", url="https://t.me/joinchat/0B7v3NByJNQ5MGVl"),
-                    InlineKeyboardButton("🏅GROUP🏅", url="https://t.me/joinchat/X9hGQQb8zdAzN2U1")
+                    InlineKeyboardButton("⚜️GROUP⚜️", url="https://t.me/joinchat/X9hGQQb8zdAzN2U1")
                 ],
                 [
-                    InlineKeyboardButton("My Developer👨‍🔬", url="https://t.me/Shamilmalik_10"),
+                    InlineKeyboardButton("⚡️MCU MOVIES⚡️", url="https://t.me/CLMAMC"),
                     InlineKeyboardButton("🔗 Cʜᴀɴɴᴇʟ Lɪɴᴋs 🔗", url="https://t.me/CLMRG")
                 ]
             ]
